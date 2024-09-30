@@ -1,1 +1,2 @@
-# Website-layout-with-parallax-3D-animation
+- Live Site URL: [Click](https://rubchenkoartem.github.io/Website-layout-with-parallax-3D-animation/)
+- ![Preview for the Web Site](./images/perwief.png)
